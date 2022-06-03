@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Maricela;;;
-FN: Can Cano 
+N:Erik Joel;;;
+FN: Vazquez Avila
 ORG:Sistemas Integrales en Comunicación y Servicios;
-TITLE:Ingeniero de Preventa
+TITLE:Director General
 EMAIL;type=INTERNET;type=WORK;type=pref:mcan@sicys.com
-TEL;type=WORK;type=VOICE:+52 999 231 2637
+TEL;type=WORK;type=VOICE:+52 9999005411
 item1.ADR;type=WORK;type=pref:;;C. 128E 430, Bosques del Poniente, 97246 Mérida, Yuc.
 item1.X-ABADR:sg
-item2.URL;type=pref:www.sicys.mx
+item2.URL;type=pref:https://www.sicys.mx
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
